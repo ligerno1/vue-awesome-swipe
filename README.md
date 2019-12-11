@@ -1,6 +1,10 @@
 # vue-awesome-swipe
 自定义双向绑定，网易云音乐标题
 
+## 效果图
+![](/img1.gif)	
+![](/img2.gif)	
+![](/img3.gif)	
 ## code
 ```
 <template>
