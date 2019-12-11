@@ -6,7 +6,7 @@
 ![](/img2.gif)	
 ![](/img3.gif)	
 ## code
-```
+```vue
 <template>
   <div :data-id="id" data-scrolltype="a" class="artist" @scroll="
 myScroll($event)" :style="opacity <= 1 ? 'overflow-y: scroll': 'overflow-y: hidden'">
