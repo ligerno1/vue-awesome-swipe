@@ -1,4 +1,4 @@
-# vue-awesome-swipe
+# vue-awesome-swiper
 自定义双向绑定，网易云音乐标题
 
 ## 效果图
